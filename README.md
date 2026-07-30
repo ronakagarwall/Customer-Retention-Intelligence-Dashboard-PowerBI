@@ -111,9 +111,7 @@ Customer-Retention-Intelligence-Dashboard-PowerBI
 │   ├── Customer_Insights.png
 │   └── Churn_Intelligence.png
 │
-├── README.md
-├── LICENSE
-└── .gitignore
+└── README.md
 ```
 
 ---
