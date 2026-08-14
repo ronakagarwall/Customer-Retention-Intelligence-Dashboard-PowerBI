@@ -1,4 +1,4 @@
-# 📉 Customer Retention Intelligence Dashboard (Power BI)
+# Customer Retention Intelligence Dashboard (Power BI)
 
 An interactive Power BI dashboard built to analyze telecom customer churn, explore customer behavior, and uncover actionable business insights through data visualization and analytics.
 
