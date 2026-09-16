@@ -19,7 +19,6 @@ This project analyzes customer churn using Power BI by transforming raw customer
 - Explore the relationship between contract type, internet service, payment method, and churn.
 - Measure the financial impact of customer churn.
 - Present insights through an interactive business intelligence dashboard.
-
 ---
 
 ## Dashboard Pages
